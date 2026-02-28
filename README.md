@@ -36,6 +36,6 @@ Si se quiere probar el filtro con coeficientes tipo float deben realizarse los s
 
 ## Authors
 
-- [Ignacio Gonzalez](linkedin.com/in/ignaciogonzalez-eng)
+- [Ignacio Gonzalez](https://www.linkedin.com/in/ignaciogonzalez-eng/)
 - Pedro Arsuaga
 - Camila Assereto
